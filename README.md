@@ -1,4 +1,4 @@
-# Fit Page
+# Easy Boiler Plate
 Fit Page mobile app challenge.
 ## Description
   - Implemented the replica of the website and implemented all the data from API sucessfully.
